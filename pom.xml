@@ -12,7 +12,7 @@
 	<artifactId>elevatorsystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>elevatorsystem</name>
-	<description>System to manage elevators for AVSystem Internship</description>
+	<description>System to manage elevators</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
